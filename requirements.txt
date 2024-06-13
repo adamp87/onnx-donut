@@ -7,3 +7,4 @@ donut-python==1.0.9
 onnx
 onnxruntime
 protobuf<3.21.0
+tritonclient[grpc]
